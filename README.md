@@ -1,6 +1,6 @@
 
 # Project Title
-- Welcome to my Intermediate Frontend Projects Development
+- Welcome to my Intermediate Frontend Projects Development.
   
 
 ## Author
