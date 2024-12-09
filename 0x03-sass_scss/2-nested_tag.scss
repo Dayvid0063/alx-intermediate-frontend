@@ -1,0 +1,10 @@
+// Nested declarations for body and its p tags
+body {
+    margin: 0px;
+    padding: 0px;
+
+    // Nested selector for paragraphs inside body
+    p {
+        margin: 10px;
+    }
+}
